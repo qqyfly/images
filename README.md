@@ -1,1 +1,1 @@
-# images
+# Static Images Storage
